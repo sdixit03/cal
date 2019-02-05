@@ -1,8 +1,7 @@
-print("Enter a number: ")
 num= int(input())
 if num>0:
-    print("POSITIVE")
+    print("Positive")
 elif num<0:
-    print("NEGATIVE")
+    print("Negative")
 else:
-    print("ZERO")
+    print("Zero")
